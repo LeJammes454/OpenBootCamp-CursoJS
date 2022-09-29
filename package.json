@@ -1,0 +1,19 @@
+{
+  "name": "ejerciocio1",
+  "version": "1.0.0",
+  "description": "Crear un nuevo proyecto de Node y dentro del package.json crea un scrip que muestre por pantalla,\"Hola, este es mi primer ejercicio de Node en el mejor Bootcamp de programacion del mundo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeJammes454/OpenBootCamp-CursoJS.git"
+  },
+  "author": "Jaime Leon Angeles (lejammes454)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeJammes454/OpenBootCamp-CursoJS/issues"
+  },
+  "homepage": "https://github.com/LeJammes454/OpenBootCamp-CursoJS#readme"
+}
